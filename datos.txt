@@ -1,0 +1,14 @@
+Estructuras de datos
+10
+Ana Isabel
+Parra Ramos
+8.9
+7.1
+Juan Alberto
+Campos Luque
+6.5
+7.2
+Luis
+Siles Cruz
+8.4
+5.4
